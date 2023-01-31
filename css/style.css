@@ -55,10 +55,12 @@ ul {
 }
 
 .container {
-    background: url(../img/bg-header2.png) top left repeat-x;
-    font-family: 'Roboto', sans-serif;
-    width: 100%;
-    display: inline-block;
+	background: url(../img/bg-header2.png) top left repeat-x;
+	font-family: 'Roboto', sans-serif;
+	width: 100%;
+	display: inline-block;
+	overflow: hidden;
+	float: left;
 }
 
 #gh-logo {
